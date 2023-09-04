@@ -24,9 +24,9 @@ No feed sã apenas os pontos de interesses adicionados recentemente.
 
 O mapa aparece primeiro quando o usuário abre o app, com vários pontos de interesses
 Feed no menu inferior.
-Quem?
+O que?
 Como?
-O que? 
+Quem?
 Por que?
 Onde?
 Quando?
