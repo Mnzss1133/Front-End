@@ -1,0 +1,14 @@
+## Aplicativo passeio carioca: 
+Pagina no ig rio casas e prédios antigos (história dos prédios) -> transformar num app com mapa geolocalizado. Cadastra os endereços, com os objetivos de mostrar a historia dos lugares. 
+
+
+Criar um feed de notícias, mostrar a atualização dos imóveis , como um feed no instagram , fazendo com que o turista saiba das últimas atualizações.
+Publicar anúncios, para caso o cliente queria comprar alguma coisa em relação aos imóveis
+Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai pro admin e se aprovar vai para o aplicativo.(o foca é em avaliar a historia e não o imóvel). Possui favoritos e possui curtidas.
+
+Exemplo: Bar lagoa—ponto de interesse e no final ira ter um cupom de desconto(viva a experiência)
+
+Voltado ao turismo arquitetônico, de lugares recentes tb, de prédios comuns, residênciais(é algo mais underground). História frutos de entrevistas. Conta sobre o estilo da construção, da parte da arquitetura
+
+Voz da cidade, cadastra as estatuas, exemplo: Carlos Drummond, cazuza, tom Jobim. Escreve como se fosse a estátua falando(exemplo: frequentava tal lugar) Texto em primeira pessoas. 
+Inteligência artificial para recriar a voz da pessoas(estátua)
