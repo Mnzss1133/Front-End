@@ -12,3 +12,22 @@ Voltado ao turismo arquitetônico, de lugares recentes tb, de prédios comuns, r
 
 Voz da cidade, cadastra as estatuas, exemplo: Carlos Drummond, cazuza, tom Jobim. Escreve como se fosse a estátua falando(exemplo: frequentava tal lugar) Texto em primeira pessoas. 
 Inteligência artificial para recriar a voz da pessoas(estátua)
+
+Tags para determinar circuitos(exemplo: red tag para música)
+
+Gameficação -> medalhas que o usuário pode ganhar caso q ele faça check in em um determinado ponto. Pode usar como anúncios tb.
+
+Rankeamento dos usuários em termos de medalha.
+
+Mapa do rj, pode escolher a sua geolocalização, visando ver os imóveis mais perto dele ou não.
+No feed sã apenas os pontos de interesses adicionados recentemente.
+
+O mapa aparece primeiro quando o usuário abre o app, com vários pontos de interesses
+Feed no menu inferior.
+Quem?
+Como?
+O que? 
+Por que?
+Onde?
+Quando?
+
