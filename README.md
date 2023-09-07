@@ -14,7 +14,9 @@ O projeto será feito a partir do REACT usando a linguagem de JavaScript.
 
 ### What - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
 
-O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis históricos que a empresa adicionou ao seu sistema. Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel.
+O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis históricos que a empresa adicionou ao seu sistema. 
+
+Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel.
 
 ### Why - Porque esse projeto é necessário, no que ele vai ajudar o cliente:
 
