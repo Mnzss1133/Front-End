@@ -10,7 +10,7 @@ As datas de atualização serão semanais, e terão apresentações maiores nos 
 
 ### Where -  Aonde será feito o projeto, qual plataforma ou destino que terá esse projeto:
 
-O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
+O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) que suporte a linguagem JavaScript, como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
 
 ### What - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
 
