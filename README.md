@@ -2,7 +2,7 @@
 ## Metodologia -> Plano de Ação 5W2H
 ### Who - Quem vai fazer o projeto ou para quem é o projeto:
 
-Os membros da Equipiada farão o projeto, e o projeto é para a empresa Passeio Carioca.
+Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
 
 ### When - Para quando é o projeto, data de entrega ou formato de atualizações do cliente ao projeto:
 
@@ -10,7 +10,7 @@ As datas de atualização serão semanais, e terão apresentações maiores nos 
 
 ### Where -  Aonde será feito o projeto, qual plataforma ou destino que terá esse projeto:
 
-O projeto será feito a partir do REACT usando a linguagem de JavaScript.
+O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
 
 ### What - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
 
