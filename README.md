@@ -53,11 +53,11 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 
 ## Usuário
-### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto:
+### Who (Quem) - Quem vai utilizar o projeto:
 
-### When (Quando) - Para quando é o projeto, data de entrega ou formato de atualizações do cliente ao projeto:
+### When (Quando) - Quando o usuário vai utilizar:
 
-### Where (Onde) -  Aonde será feito o projeto, qual plataforma ou destino que terá esse projeto:
+### Where (Onde) -  Onde será possível acessar o projeto -> feed de notícias + aplicativo:
 
 ### What (O que) - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
 
