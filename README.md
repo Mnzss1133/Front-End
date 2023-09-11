@@ -29,3 +29,24 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 ### How much - Quanto será gasto no projeto -> o valor do projeto: 
 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
+
+NOSSO ENTENDIMENTO DO PROJETO:
+## Aplicativo passeio carioca: 
+Página no instagram rio casas e prédios antigos (história dos prédios): @riocasaseprediosantigos -> transforma num app com mapa geolocalizado. Cadastra os endereços, com os objetivos de mostrar a historia dos lugares. 
+
+Nosso objetivo: Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
+Publicar anúncios, para caso o cliente queria participar de alguma experiência em relação aos imóveis;
+Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai pro admin e se aprovar vai para o aplicativo.(o foco é em avaliar a história e não o imóvel). Possui favoritos e possui curtidas.
+
+Exemplo: Bar lagoa—ponto de interesse e no final ira ter um cupom de desconto(viva a experiência)
+
+Voltado ao turismo arquitetônico, de lugares recentes também, de prédios comuns, residenciais. História recentes. Conta sobre o estilo da construção, da parte da arquitetura.
+
+Gameficação -> medalhas que o usuário pode ganhar caso q ele faça check in em um determinado ponto. Pode usar como anúncios tb.
+
+Rankeamento dos usuários em termos de medalha.
+
+Mapa do rj, pode escolher a sua geolocalização, visando ver os imóveis mais perto dele ou não.
+No feed são apenas os pontos de interesses adicionados recentemente.
+
+O mapa aparece primeiro quando o usuário abre o app, com vários pontos de interesses.
