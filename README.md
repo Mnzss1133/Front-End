@@ -26,10 +26,6 @@ Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobr
 
 O projeto será feito a partir de reuniões da equipe durante e fora das aulas, documentando o que for necessário para realização do projeto e assim programando a partir do React utilizando a linguagem JavaScript.
 
-### How much - Quanto será gasto no projeto -> o valor do projeto: 
-
-Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
-
 ## Nosso entendimento do projeto - aplicativo passeio carioca (pós-reunião): 
 Referência: Página no instagram -> @riocasaseprediosantigos 
 -> O aplicativo tem um mapa geolocalizado. Outra funcionalidade: cadastrar os endereços, com os objetivos de mostrar a historia dos lugares. 
