@@ -21,6 +21,7 @@ O mapa aparece primeiro quando o usuário abre o app, com vários pontos de inte
 Referência: Página no instagram -> @riocasaseprediosantigos 
 
 ## Metodologia -> Plano de Ação 5W2H
+## Sistema
 ### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto:
 
 Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
@@ -50,5 +51,20 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 ### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
+
+## Usuário
+### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto:
+
+### When (Quando) - Para quando é o projeto, data de entrega ou formato de atualizações do cliente ao projeto:
+
+### Where (Onde) -  Aonde será feito o projeto, qual plataforma ou destino que terá esse projeto:
+
+### What (O que) - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
+
+### Why (Por que) - Porque esse projeto é necessário, no que ele vai ajudar o cliente:
+
+### How (Como) - Como será feito o projeto -> metodologias, processos e linguagens:
+
+### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
 
 ## Resquisitos do sistema:
