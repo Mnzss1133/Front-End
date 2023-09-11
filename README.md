@@ -1,7 +1,5 @@
 # Front-End: Projeto Passeio Carioca
-## Nosso entendimento do projeto - aplicativo passeio carioca (pós-reunião): 
-### Referência: 
-Página no instagram -> @riocasaseprediosantigos 
+## Nosso entendimento do projeto: 
 
 ### Nosso objetivo: 
 Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
@@ -20,6 +18,8 @@ Mapa do rj, pode escolher a sua geolocalização, visando ver os imóveis mais p
 No feed são apenas os pontos de interesses adicionados recentemente.
 
 O mapa aparece primeiro quando o usuário abre o app, com vários pontos de interesses.
+ 
+Referência: Página no instagram -> @riocasaseprediosantigos 
 
 ## Metodologia -> Plano de Ação 5W2H
 ### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto:
