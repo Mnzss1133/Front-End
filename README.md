@@ -32,7 +32,7 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 
 ## Nosso entendimento do projeto aplicativo passeio carioca (pós-reunião): 
 Página no instagram rio casas e prédios antigos (história dos prédios): @riocasaseprediosantigos 
--> O aplicativo tem um mapa geolocalizado. Cadastra os endereços, com os objetivos de mostrar a historia dos lugares. 
+-> O aplicativo tem um mapa geolocalizado. Outra funcionalidade: cadastra os endereços, com os objetivos de mostrar a historia dos lugares. 
 
 Nosso objetivo: Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
 Publicar anúncios, para caso o cliente queria participar de alguma experiência em relação aos imóveis.
