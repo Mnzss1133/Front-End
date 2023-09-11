@@ -31,7 +31,7 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 
 ## Nosso entendimento do projeto - aplicativo passeio carioca (pós-reunião): 
-###Referência: 
+### Referência: 
 Página no instagram -> @riocasaseprediosantigos 
 -> O aplicativo tem um mapa geolocalizado. Outra funcionalidade: cadastrar os endereços, com os objetivos de mostrar a historia dos lugares. 
 
