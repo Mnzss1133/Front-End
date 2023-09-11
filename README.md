@@ -50,3 +50,5 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 ### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
+
+## Resquisitos do sistema:
