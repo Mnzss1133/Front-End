@@ -31,10 +31,12 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 
 ## Nosso entendimento do projeto - aplicativo passeio carioca (pós-reunião): 
-Referência: Página no instagram -> @riocasaseprediosantigos 
+###Referência: 
+Página no instagram -> @riocasaseprediosantigos 
 -> O aplicativo tem um mapa geolocalizado. Outra funcionalidade: cadastrar os endereços, com os objetivos de mostrar a historia dos lugares. 
 
-Nosso objetivo: Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
+### Nosso objetivo: 
+Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
 Publicar anúncios, para caso o cliente queria participar de alguma experiência em relação aos imóveis.
 Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai pro admin e se aprovar vai para o aplicativo (o foco é em avaliar a história e não o imóvel). Possui opção de favoritos e curtidas.
 
