@@ -1,4 +1,4 @@
-# Front-End
+# Front-End: Projeto Passeio Carioca
 ## Metodologia -> Plano de Ação 5W2H
 ### Who(Quem) - Quem vai fazer o projeto ou para quem é o projeto:
 
