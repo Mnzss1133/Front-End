@@ -70,6 +70,8 @@ Ele poderá entrar em contato para participar de algum evento dos imóveis, alé
 ### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? :
 Para obter informações e curiosidades sobre as construções arquitetônicas no Rio de Janeiro. Vai utilizar o feed para se manter atualizado das mais novas adições feitas pela empresa.
 
+### How (Como) - Como o usuário terá acesso ao sistema?
+O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
 
 ### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
 Quanto tempo o usuário vai gastar utilizando o aplicativo
