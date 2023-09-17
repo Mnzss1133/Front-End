@@ -72,7 +72,7 @@ Para obter informações e curiosidades sobre as construções arquitetônicas n
 
 
 ### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
-Quanto tempo o usuário vai gastar usando o aplicativo
+Quanto tempo o usuário vai gastar utilizando o aplicativo
 
 ## Resquisitos do sistema:
 
