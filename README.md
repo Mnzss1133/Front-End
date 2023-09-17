@@ -63,10 +63,12 @@ Na rua, em casa, em todos os lugares onde ele possuam acesso a internet
 ### What (O que) - O que o usuário vai fazer no aplicativo?:
 
 ### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que q ele vai usar o feed? :
-Para obter informações e curiosidades sobre o mundo arquitônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
+Para obter informações e curiosidades sobre o mundo arquitetônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
 
-### How (Como) - Como será feito o projeto -> metodologias, processos e linguagens:
+### How (Como) - Como o usuário vai? 
 
 ### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
 
 ## Resquisitos do sistema:
+
+###Funcionais
