@@ -68,9 +68,8 @@ A experiência do usuário será baseada na sua interação com os imóveis já 
 Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
 
 ### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? :
-Para obter informações e curiosidades sobre o mundo arquitetônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
+Para obter informações e curiosidades sobre as construções arquitetônicas no Rio de Janeiro. Vai utilizar o feed para se manter atualizado das mais novas adições feitas pela empresa.
 
-### How (Como) - Como o usuário vai? 
 
 ### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
 
