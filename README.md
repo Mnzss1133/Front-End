@@ -54,15 +54,15 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 
 ## Usuário
 ### Who (Quem) - Quem vai utilizar o projeto:
-As pessoas que tiverem interesse e curiosidade em conhecer o mundo aquirtetônico do Rio de Janeiro
+As pessoas que tiverem interesse e curiosidade em conhecer as obras aquirtetônicas do Rio de Janeiro
 ### When (Quando) - Quando o usuário vai utilizar:
 
 ### Where (Onde) -  Onde será possível acessar o projeto -> feed de notícias + aplicativo:
-Na rua, em casa, em todos os lugares onde ele possuam acesso a internet
+Na rua, em casa, em todos os lugares onde eles possuam acesso a internet
 
 ### What (O que) - O que o usuário vai fazer no aplicativo?:
 
-### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que q ele vai usar o feed? :
+### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? :
 Para obter informações e curiosidades sobre o mundo arquitetônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
 
 ### How (Como) - Como o usuário vai? 
@@ -71,7 +71,9 @@ Para obter informações e curiosidades sobre o mundo arquitetônico no rio de j
 
 ## Resquisitos do sistema:
 
-#### Funcionais
+#### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.)
 
 
-#### Não Funcionais
+
+
+#### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado)
