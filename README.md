@@ -54,8 +54,10 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 
 ## Usuário
 ### Who (Quem) - Quem vai utilizar o projeto:
-As pessoas que tiverem interesse e curiosidade em conhecer as obras aquirtetônicas do Rio de Janeiro
+As pessoas que tiverem interesse e curiosidade em conhecer as obras aquirtetônicas do Rio de Janeiro.
+
 ### When (Quando) - Quando o usuário vai utilizar:
+No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
 
 ### Where (Onde) -  Onde será possível acessar o projeto -> feed de notícias + aplicativo:
 Na rua, em casa, em todos os lugares onde eles possuam acesso a internet
