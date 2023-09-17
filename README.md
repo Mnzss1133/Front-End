@@ -9,7 +9,7 @@ Exemplo: Bar lagoa—ponto de interesse e no final ira ter um cupom de desconto 
 
 Voltado ao turismo arquitetônico, de lugares recentes também, de prédios comuns, residenciais. História recentes. Conta sobre o estilo da construção, da parte da arquitetura.
 
-Gameficação -> medalhas que o usuário pode ganhar caso q ele faça check in em um determinado ponto. Pode usar como anúncios também.
+Gameficação -> medalhas que o usuário pode ganhar caso ele faça check in em um determinado ponto. Pode usar como anúncios também.
 
 Rankeamento dos usuários em termos de medalha.
 
@@ -85,7 +85,7 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
 -  Buscar sobre algum imóvel específico
--  Imersão num experiência auditiva(estátua)
+-  Imersão numa experiência auditiva(estátua)
   
  
 
