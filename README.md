@@ -61,7 +61,8 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 
 ### What (O que) - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
 
-### Why (Por que) - Porque esse projeto é necessário, no que ele vai ajudar o cliente:
+### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que q ele vai usar o feed? :
+Para obter informações e curiosidades sobre o mundo arquitônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
 
 ### How (Como) - Como será feito o projeto -> metodologias, processos e linguagens:
 
