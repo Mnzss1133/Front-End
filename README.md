@@ -64,6 +64,7 @@ Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com ace
 
 ### What (O que) - O que o usuário vai fazer no aplicativo?:
 A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
+
 Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
 
 ### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? :
