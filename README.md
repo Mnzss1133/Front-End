@@ -85,7 +85,7 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
 -  Buscar sobre algum imóvel específico
--  Escutar a história de uma estátua através 
+-  Imersão num experiência auditiva(estátua)
   
  
 
