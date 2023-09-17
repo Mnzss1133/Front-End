@@ -84,8 +84,9 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 -  Utilizar a sua  geolocalização 
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
--  Buscar sobre algum imóvel específico
+-  Botão de Busca
 -  Imersão numa experiência auditiva(estátua)
+  
   
  
 
@@ -96,3 +97,6 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 
 
 ## Propósito do Sistema
+
+
+## Elicitação
