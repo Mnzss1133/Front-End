@@ -60,7 +60,7 @@ As pessoas que tiverem interesse e curiosidade em conhecer as obras aquirtetôni
 No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
 
 ### Where (Onde) -  Onde será possível acessar o projeto -> feed de notícias + aplicativo:
-Na rua, em casa, em todos os lugares onde eles possuam acesso a internet
+Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com acesso a internet.
 
 ### What (O que) - O que o usuário vai fazer no aplicativo?:
 
