@@ -82,7 +82,7 @@ Para obter informações e curiosidades sobre o mundo arquitetônico no rio de j
 -  Adicionar sua localização
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
--  Pesquisar sobre algum imóvel específic
+-  Pesquisar sobre algum imóvel específico
  
 
 
