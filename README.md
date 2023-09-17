@@ -75,7 +75,7 @@ Para obter informações e curiosidades sobre o mundo arquitetônico no rio de j
 ## Resquisitos do sistema:
 
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.)
- Acessar o aplicativo através de login e senha 
+- Acessar o aplicativo através de login e senha 
  
  Procurar os imoveis através do mapa
  
