@@ -63,7 +63,8 @@ No momento em que o usuário tiver o interesse de consultar imóveis na cidade d
 Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com acesso a internet.
 
 ### What (O que) - O que o usuário vai fazer no aplicativo?:
-A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
+A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
+Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
 
 ### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? :
 Para obter informações e curiosidades sobre o mundo arquitetônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
