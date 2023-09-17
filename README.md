@@ -54,12 +54,13 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 
 ## Usuário
 ### Who (Quem) - Quem vai utilizar o projeto:
-
+As pessoas que tiverem interesse e curiosidade em conhecer o mundo aquirtetônico do Rio de Janeiro
 ### When (Quando) - Quando o usuário vai utilizar:
 
 ### Where (Onde) -  Onde será possível acessar o projeto -> feed de notícias + aplicativo:
+Na rua, em casa, em todos os lugares onde ele possuam acesso a internet
 
-### What (O que) - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
+### What (O que) - O que o usuário vai fazer no aplicativo?:
 
 ### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que q ele vai usar o feed? :
 Para obter informações e curiosidades sobre o mundo arquitônico no rio de janeiro, e ira utilizar o feed para se manter atualizdo das mais novas descobertas feitas pela empresa
