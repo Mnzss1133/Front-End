@@ -71,4 +71,7 @@ Para obter informações e curiosidades sobre o mundo arquitetônico no rio de j
 
 ## Resquisitos do sistema:
 
-##Funcionais
+## Funcionais
+
+
+## Não Funcionais
