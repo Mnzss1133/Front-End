@@ -73,8 +73,8 @@ Para obter informações e curiosidades sobre as construções arquitetônicas n
 ### How (Como) - Como o usuário terá acesso ao sistema?
 O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
 
-### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
-Quanto tempo o usuário vai gastar utilizando o aplicativo
+### How much (Preço) - Quanto o usuário gastará usando o aplicativo: 
+Será medido apenas o tempo de acesso gasto do usuário na sua interação com as funcionalidades do aplicativo.
 
 ## Resquisitos do sistema:
 
