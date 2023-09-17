@@ -74,17 +74,19 @@ Para obter informações e curiosidades sobre as construções arquitetônicas n
 O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
 
 ### How much (Preço) - Quanto o usuário gastará usando o aplicativo: 
-Será medido apenas o tempo de acesso gasto do usuário na sua interação com as funcionalidades do aplicativo.
+Será medido apenas o tempo de acesso gasto do usuário na sua interação com o aplicativo.
 
 ## Resquisitos do sistema:
 
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.)
-- Acessar o aplicativo através de login e senha  
+-  Acessar o aplicativo através de login e senha  
 -  Procurar os imoveis através do mapa
--  Adicionar sua localização
+-  Utilizar a sua  geolocalização 
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
 -  Buscar sobre algum imóvel específico
+-  Escutar a história de uma estátua através 
+  
  
 
 
