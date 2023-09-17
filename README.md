@@ -82,7 +82,7 @@ Quanto tempo o usuário vai gastar usando o aplicativo
 -  Adicionar sua localização
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
--  Pesquisar sobre algum imóvel específico
+-  Buscar sobre algum imóvel específico
  
 
 
