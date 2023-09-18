@@ -47,7 +47,7 @@ Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com ace
 ### What (O que) - O que é o projeto? O que precisa ser feito? -> Quais são os requisitos feitos pelo cliente?
 O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis  que a empresa adicionou ao seu sistema. Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel.
 ### What (O que) - O que o usuário vai fazer no aplicativo?
-Usuário: A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
+A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
 Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
 
 ### Why (Por que) - Porque esse projeto é necessário? -> No que ele vai ajudar o cliente?
