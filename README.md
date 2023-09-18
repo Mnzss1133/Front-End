@@ -87,7 +87,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 -  Será possível comentar num post;
 -  Será possível favoritar um post;
 -  Botão de Busca;
--  Será possível ouvir um áudio contando a história de uma estátua.
+- Haverá um sistema de som , no qual o usuário iá conseguir ouvir a história de uma determinada estátua atrvés de um áudio
   
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade ou que está sendo planejado)
