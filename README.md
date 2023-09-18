@@ -7,7 +7,7 @@ Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai 
 
 Exemplo: Bar lagoa, exemplo de ponto de interesse e no final ira ter um cupom de desconto (viva a experiência).
 
-#Anotações
+## Anotações
 
 Voltado ao turismo arquitetônico, de lugares recentes também, de prédios comuns, residenciais. História recentes. Conta sobre o estilo da construção, da parte da arquitetura.
 
