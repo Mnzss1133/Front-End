@@ -54,7 +54,7 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 
 ## Usuário
 ### Who (Quem) - Quem vai utilizar o projeto:
-As pessoas que tiverem interesse e curiosidade em conhecer as obras aquirtetônicas do Rio de Janeiro.
+As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
 
 ### When (Quando) - Quando o usuário vai utilizar:
 No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
@@ -101,6 +101,7 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 ## Propósito do Sistema
 Construir uma página web , na qual irá possuir um feed. Será construída para mobile apenas. 
 O feed vai conter imagens e a descrição delas, mapa e haverá utilização de geolocalização.
+Irá conter um sistema de audio, que vai reproduzir a voz da estátua feita atrvés de inteligência artificial
 Tudo isso será interativo para o usuário
 
 
