@@ -95,8 +95,12 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado)
 - o sistema deve funcionar tanto para ios quanto para android
 - 
+- 
 
 
 ## Propósito do Sistema
+Construir uma página web , na qual irá possuir um feed. Será construída para mobile apenas. 
+O feed vai conter imagens e a descrição delas, mapa e haverá utilização de geolocalização.
+Tudo isso será interativo para o usuário
 
 
