@@ -23,28 +23,32 @@ O mapa aparece primeiro quando o usuário abre o app, com vários pontos de inte
 Referência: Página no instagram -> @riocasaseprediosantigos 
 
 ## Plano de Ação 5W2H
-## Sistema
+## Projeto, Usuário e Sistema
 ### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto?
 
-Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
-
+Projeto: Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
+Usuário: As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
 ### When (Quando) - Para quando é o projeto? -> data de entrega ou formato de atualizações do cliente ao projeto:
 
-As datas de atualização serão semanais, e terão apresentações maiores nos dias das provas AP1 e AP2.
+Projeto: As datas de atualização serão semanais, e terão apresentações maiores nos dias das provas AP1 e AP2.
+Usuário: No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
 
 ### Where (Onde) -  Aonde será feito o projeto? -> Qual plataforma ou destino que terá esse projeto?
 
-O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) que suporte a linguagem JavaScript, como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
+Projeto: O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) que suporte a linguagem JavaScript, como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
+Usuário: Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com acesso a internet.
 
 ### What (O que) - O que é o projeto? O que precisa ser feito? -> Quais são os requisitos feitos pelo cliente?
 
-O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis  que a empresa adicionou ao seu sistema. 
+Projeto: O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis  que a empresa adicionou ao seu sistema. Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel.
 
-Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel.
+Usuário: A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
+Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
 
 ### Why (Por que) - Porque esse projeto é necessário? -> No que ele vai ajudar o cliente?
 
-Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobre as novas descobertas que foram feitas, assim como as novas possíveis experiências que vem com esses edifícios.
+Projeto: Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobre as novas descobertas que foram feitas, assim como as novas possíveis experiências que vem com esses edifícios.
+Usuário: Para obter informações e curiosidades consultando as construções arquitetônicas no Rio de Janeiro. 
 
 ### How (Como) - Como será feito o projeto? -> metodologias, processos e linguagens:
 
