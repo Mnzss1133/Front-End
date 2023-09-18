@@ -68,29 +68,6 @@ O usuário poderá acessar o aplicativo e interagir no feed de notícias usando 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 #### (Preço -> Usuário) - Quanto o usuário gastará usando o aplicativo?
 Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
-## Usuário
-### Who (Quem) - Quem vai utilizar o projeto?
-As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
-
-### When (Quando) - Quando o usuário vai utilizar?
-No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
-
-### Where (Onde) -  Onde será possível acessar o projeto? -> feed de notícias + aplicativo:
-Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com acesso a internet.
-
-### What (O que) - O que o usuário vai fazer no aplicativo?
-A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
-
-Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
-
-### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? 
-Para obter informações e curiosidades consultando as construções arquitetônicas no Rio de Janeiro. 
-
-### How (Como) - Como o usuário terá acesso ao sistema?
-O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
-
-### How much (Preço) - Quanto o usuário gastará usando o aplicativo?
-Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
 
 ## Resquisitos do sistema:
 
