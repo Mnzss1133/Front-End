@@ -92,7 +92,8 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado)
 - o sistema deve funcionar tanto para ios quanto para android;
-- o sistema também dever ser acessavel a partir do aplicativo do Passeio Carioca;
+- o sistema dever ser acessível a partir do aplicativo do Passeio Carioca;
+- a base da pagina web do sistema deve ser o framework REACT;
  
 
 
