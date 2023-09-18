@@ -63,11 +63,11 @@ O projeto será feito a partir de reuniões da equipe durante e fora das aulas, 
 #### (Como -> Usuário) - Como o usuário terá acesso ao sistema?
 O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
 
-### How much (Preço) - Quanto será gasto no projeto? -> o valor do projeto: 
-
-Projeto: Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
-
-Usuário: Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
+### How much 
+#### (Preço -> Projeto) - Quanto será gasto no projeto? -> o valor do projeto: 
+Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
+#### (Preço) - Quanto o usuário gastará usando o aplicativo?
+Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
 ## Usuário
 ### Who (Quem) - Quem vai utilizar o projeto?
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
