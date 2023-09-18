@@ -22,58 +22,58 @@ Referência: Página no instagram -> @riocasaseprediosantigos
 
 ## Metodologia -> Plano de Ação 5W2H
 ## Sistema
-### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto:
+### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto?
 
 Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
 
-### When (Quando) - Para quando é o projeto, data de entrega ou formato de atualizações do cliente ao projeto:
+### When (Quando) - Para quando é o projeto? -> data de entrega ou formato de atualizações do cliente ao projeto:
 
 As datas de atualização serão semanais, e terão apresentações maiores nos dias das provas AP1 e AP2.
 
-### Where (Onde) -  Aonde será feito o projeto, qual plataforma ou destino que terá esse projeto:
+### Where (Onde) -  Aonde será feito o projeto? -> Qual plataforma ou destino que terá esse projeto?
 
 O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) que suporte a linguagem JavaScript, como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
 
-### What (O que) - O que é o projeto, o que precisa ser feito, quais são os requisitos feitos pelo cliente:
+### What (O que) - O que é o projeto? O que precisa ser feito? -> Quais são os requisitos feitos pelo cliente?
 
 O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis  que a empresa adicionou ao seu sistema. 
 
 Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel.
 
-### Why (Por que) - Porque esse projeto é necessário, no que ele vai ajudar o cliente:
+### Why (Por que) - Porque esse projeto é necessário? -> No que ele vai ajudar o cliente?
 
 Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobre as novas descobertas que foram feitas, assim como as novas possíveis experiências que vem com esses edifícios.
 
-### How (Como) - Como será feito o projeto -> metodologias, processos e linguagens:
+### How (Como) - Como será feito o projeto? -> metodologias, processos e linguagens:
 
 O projeto será feito a partir de reuniões da equipe durante e fora das aulas, documentando o que for necessário para realização do projeto e assim programando a partir do React utilizando a linguagem JavaScript.
 
-### How much (Preço) - Quanto será gasto no projeto -> o valor do projeto: 
+### How much (Preço) - Quanto será gasto no projeto? -> o valor do projeto: 
 
 Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 
 ## Usuário
-### Who (Quem) - Quem vai utilizar o projeto:
+### Who (Quem) - Quem vai utilizar o projeto?
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
 
-### When (Quando) - Quando o usuário vai utilizar:
+### When (Quando) - Quando o usuário vai utilizar?
 No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
 
-### Where (Onde) -  Onde será possível acessar o projeto -> feed de notícias + aplicativo:
+### Where (Onde) -  Onde será possível acessar o projeto? -> feed de notícias + aplicativo:
 Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com acesso a internet.
 
-### What (O que) - O que o usuário vai fazer no aplicativo?:
+### What (O que) - O que o usuário vai fazer no aplicativo?
 A experiência do usuário será baseada na sua interação com os imóveis já cadastrados e com a história que cada um deles possui. 
 
 Ele poderá entrar em contato para participar de algum evento dos imóveis, além de avaliá-los no feed de notícias com likes e comentários, a fim de melhorar a notoriedade daquele imóvel.
 
-### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? :
+### Why (Por que) -Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? 
 Para obter informações e curiosidades sobre as construções arquitetônicas no Rio de Janeiro. 
 
 ### How (Como) - Como o usuário terá acesso ao sistema?
 O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
 
-### How much (Preço) - Quanto o usuário gastará usando o aplicativo: 
+### How much (Preço) - Quanto o usuário gastará usando o aplicativo:?
 Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
 
 ## Resquisitos do sistema:
