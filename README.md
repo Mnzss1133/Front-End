@@ -84,7 +84,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 -  Acessar o aplicativo através de login e senha;
 -  Procurar os imoveis através do mapa;
 -  Utilização de  geolocalização (permitir acesso à sua localização);
--  Ver os post mais recentes a partir da rolagem do feed;
+-  O sistema deverá exibir as postagens mais recentes no topo;
 -  Será possível curtir um post;
 -  Será possível comentar num post;
 -  Será possível favoritar um post;
@@ -93,6 +93,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
 - O sistema deve operar tanto para o IOS quanto para Android;
+- O sistema usara uma API do Google Maps;
 - O sistema deve ser acessível a partir do aplicativo do Passeio Carioca;
 - O sistema deve ser usado com segurança, garantindo confiabilidade para o usuário;
 - A base da página web do sistema deve ser o framework REACT;
