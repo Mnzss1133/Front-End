@@ -90,7 +90,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 -  Haverá um sistema de som , no qual o usuário irá conseguir ouvir a história de uma determinada estátua através de um áudio
   
 
-#### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade ou que está sendo planejado)
+#### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado)
 - O sistema deve funcionar tanto para ios quanto para android;
 - O sistema dever ser acessível a partir do aplicativo do Passeio Carioca;
 - A base da pagina web do sistema deve ser o framework REACT;
