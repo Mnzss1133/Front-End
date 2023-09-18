@@ -94,8 +94,7 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado)
 - o sistema deve funcionar tanto para ios quanto para android
-- 
-- 
+ 
 
 
 ## Propósito do Sistema
