@@ -5,7 +5,7 @@ Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed n
 Publicar anúncios, para caso o cliente queria participar de alguma experiência em relação aos imóveis.
 Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai pro administrador e se aprovar vai para o aplicativo (o foco é em avaliar a história e não o imóvel). Possui opção de favoritos e curtidas.
 
-Exemplo: Bar lagoa—ponto de interesse e no final ira ter um cupom de desconto (viva a experiência)
+Exemplo: Bar lagoa—ponto de interesse e no final ira ter um cupom de desconto (viva a experiência).
 
 Voltado ao turismo arquitetônico, de lugares recentes também, de prédios comuns, residenciais. História recentes. Conta sobre o estilo da construção, da parte da arquitetura.
 
