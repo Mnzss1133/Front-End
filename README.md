@@ -88,7 +88,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 -  Será possível curtir um post;
 -  Será possível comentar num post;
 -  Será possível favoritar um post;
--  Será possível realizar um busca no feed;
+-  Será possível realizar uma busca no feed;
   
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado)
