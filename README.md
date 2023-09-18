@@ -24,10 +24,11 @@ Referência: Página no instagram -> @riocasaseprediosantigos
 
 ## Plano de Ação 5W2H
 ## Projeto, Usuário e Sistema
+### Who
 
-### Who (Quem -> Projeto) - Quem vai fazer o projeto e para quem é o projeto?
+#### (Quem -> Projeto) - Quem vai fazer o projeto e para quem é o projeto?
 Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
-### Who (Quem -> Usuário) - Quem vai utilizar o projeto?
+#### (Quem -> Usuário) - Quem vai utilizar o projeto?
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
 ### Who (Quem -> Sistema) ???? botar alguma coisa
 
