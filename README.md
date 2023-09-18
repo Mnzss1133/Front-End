@@ -81,11 +81,11 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.)
 -  Acessar o aplicativo através de login e senha  
 -  Procurar os imoveis através do mapa
--  Utilizar a sua  geolocalização 
+-  Utilizção de  geolocalização 
 -  Ver os post mais recentes a partir da rolagem do feed
--  Curtir e comentar nas fotos dos imóveis
+-  Será possível curtir e comentar nas fotos dos imóveis
 -  Botão de Busca
--  Será possível ouvir um áudio contando a história de uma estátua, feito através de IA
+-  Será possível ouvir um áudio contando a história de uma estátua.
   
   
  
