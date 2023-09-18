@@ -100,4 +100,3 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 ## Propósito do Sistema
 
 
-## Elicitação
