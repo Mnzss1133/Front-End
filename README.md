@@ -79,19 +79,19 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 ## Resquisitos do sistema:
 
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.)
--  Acessar o aplicativo através de login e senha  
--  Procurar os imoveis através do mapa
--  Utilização de  geolocalização (permitir acesso à sua localização)
--  Ver os post mais recentes a partir da rolagem do feed
--  Será possível curtir um post 
--  Será possível comentar num post
--  Será possível favoritar um post
--  Botão de Busca
+-  Acessar o aplicativo através de login e senha;
+-  Procurar os imoveis através do mapa;
+-  Utilização de  geolocalização (permitir acesso à sua localização);
+-  Ver os post mais recentes a partir da rolagem do feed;
+-  Será possível curtir um post;
+-  Será possível comentar num post;
+-  Será possível favoritar um post;
+-  Botão de Busca;
 -  Será possível ouvir um áudio contando a história de uma estátua.
   
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado)
-- o sistema deve funcionar tanto para ios quanto para android
+- o sistema deve funcionar tanto para ios quanto para android;
  
 
 
