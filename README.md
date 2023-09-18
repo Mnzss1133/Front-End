@@ -62,6 +62,10 @@ Usuário: O usuário poderá acessar o aplicativo e interagir no feed de notíci
 Projeto: Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 
 Usuário: Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
+## Usuário
+### Who (Quem) - Quem vai utilizar o projeto?
+As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
+
 ### When (Quando) - Quando o usuário vai utilizar?
 No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
 
