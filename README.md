@@ -80,7 +80,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 
 ## Resquisitos do sistema:
 
-#### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços.)
+#### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. O sistema faz e oferece ao cliente.)
 -  Acessar o aplicativo através de login e senha;
 -  Procurar os imoveis através do mapa;
 -  Utilização de  geolocalização (permitir acesso à sua localização);
@@ -91,7 +91,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 -  Será possível realizar uma busca no feed;
   
 
-#### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado)
+#### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
 - O sistema deve operar tanto para o IOS quanto para Android;
 - O sistema deve ser acessível a partir do aplicativo do Passeio Carioca;
 - O sistema deve ser usado com segurança, garantindo confiabilidade para o usuário;
