@@ -88,7 +88,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 -  Será possível curtir um post;
 -  Será possível comentar num post;
 -  Será possível favoritar um post;
--  Será possível realizar um busca;
+-  Será possível realizar um busca no feed;
 -  Haverá um sistema de som , no qual o usuário irá conseguir ouvir a história de uma determinada estátua através de um áudio.
   
 
