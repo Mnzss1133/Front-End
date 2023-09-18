@@ -20,7 +20,7 @@ O mapa aparece primeiro quando o usuário abre o app, com vários pontos de inte
  
 Referência: Página no instagram -> @riocasaseprediosantigos 
 
-## Metodologia -> Plano de Ação 5W2H
+## Plano de Ação 5W2H
 ## Sistema
 ### Who (Quem) - Quem vai fazer o projeto ou para quem é o projeto?
 
