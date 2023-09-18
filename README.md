@@ -1,7 +1,7 @@
 # Front-End: Projeto Passeio Carioca
 ## Nosso entendimento do projeto: 
 
-Criar um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
+O intuito desse projeto é um feed de notícias, mostrar a atualização dos imóveis, como um feed no instagram, fazendo com que o turista saiba das últimas atualizações.
 Publicar anúncios, para caso o cliente queria participar de alguma experiência em relação aos imóveis.
 Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai pro administrador e se aprovar vai para o aplicativo (o foco é em avaliar a história e não o imóvel). Possui opção de favoritos e curtidas.
 
