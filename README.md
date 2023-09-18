@@ -83,14 +83,12 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 -  Procurar os imoveis através do mapa
 -  Utilizção de  geolocalização 
 -  Ver os post mais recentes a partir da rolagem do feed
--  Será possível curtir e comentar nas fotos dos imóveis
+-  Será possível curtir um post 
+-  Será possível comentar num post
+-  Será possível favoritar um post
 -  Botão de Busca
 -  Será possível ouvir um áudio contando a história de uma estátua.
   
-  
- 
-
-
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade os que está sendo planejado)
 - o sistema deve funcionar tanto para ios quanto para android
