@@ -94,7 +94,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 - O sistema deve desempenhar tanto para sistema IOS quanto sistema para Android;
 - O sistema dever ser acessível a partir do aplicativo do Passeio Carioca;
 - O sistema deve ser usado com segurança, garantindo confiabilidade para o usuário;
-- A base da pagina web do sistema deve ser o framework REACT;
+- A base da página web do sistema deve ser o framework REACT;
 
 
 ## Propósito do Sistema
