@@ -98,9 +98,9 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 
 
 ## Propósito do Sistema
-Construir uma página web , na qual irá possuir um feed. Será construída para mobile apenas. 
-O feed vai conter imagens e a descrição delas, mapa e haverá utilização de geolocalização.
-Irá conter um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
-Tudo isso será interativo para o usuário
+Construir uma página web, na qual irá possuir um feed. Será construída para mobile apenas. 
+O feed vai conter imagens e a descrição delas, mapa que atribui aos imóveis alguns pontos e haverá utilização de geolocalização.
+Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
+Tudo isso será interativo para o usuário.
 
 
