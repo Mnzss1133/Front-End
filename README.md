@@ -48,16 +48,20 @@ Ele poderá entrar em contato para participar de algum evento dos imóveis, alé
 ### Why (Por que) - Porque esse projeto é necessário? -> No que ele vai ajudar o cliente?
 
 Projeto: Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobre as novas descobertas que foram feitas, assim como as novas possíveis experiências que vem com esses edifícios.
+
 Usuário: Para obter informações e curiosidades consultando as construções arquitetônicas no Rio de Janeiro. 
 
 ### How (Como) - Como será feito o projeto? -> metodologias, processos e linguagens:
 
-O projeto será feito a partir de reuniões da equipe durante e fora das aulas, documentando o que for necessário para realização do projeto e assim programando a partir do React utilizando a linguagem JavaScript.
+Projeto: O projeto será feito a partir de reuniões da equipe durante e fora das aulas, documentando o que for necessário para realização do projeto e assim programando a partir do React utilizando a linguagem JavaScript.
+
+Usuário: O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
 
 ### How much (Preço) - Quanto será gasto no projeto? -> o valor do projeto: 
 
-Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
+Projeto: Os principais custos desse projeto são o tempo tanto da equipe que faz o projeto, quanto do cliente que pediu esse projeto.
 
+Usuário: Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
 ## Usuário
 ### Who (Quem) - Quem vai utilizar o projeto?
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
