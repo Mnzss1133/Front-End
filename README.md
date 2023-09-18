@@ -85,7 +85,7 @@ Será medido apenas o tempo de acesso gasto do usuário na sua interação com o
 -  Ver os post mais recentes a partir da rolagem do feed
 -  Curtir e comentar nas fotos dos imóveis
 -  Botão de Busca
--  Imersão numa experiência auditiva(estátua)
+-  Será possível ouvir um áudio contando a história de uma estátua, feito através de IA
   
   
  
