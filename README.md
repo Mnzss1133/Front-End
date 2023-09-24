@@ -69,6 +69,12 @@ Os principais custos desse projeto são o tempo tanto da equipe que faz o projet
 #### (Preço -> Usuário) - Quanto o usuário gastará usando o aplicativo?
 Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
 
+## Casos de Uso
+### Saiba mais
+Pré Condições: Ter entrado no feed de notícias
+Fluxo Principal: Clicar no botão de saiba mais e expandir o texto da descrição do edifício.
+Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
+
 ## Resquisitos do sistema:
 
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. O sistema faz e oferece ao cliente.)
@@ -83,11 +89,11 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
   
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
-- O sistema deve operar tanto para o IOS quanto para Android;
+- O sistema deverá operar tanto para o IOS quanto para Android;
 - O sistema usará uma API do Google Maps;
-- O sistema deve ser acessível a partir do aplicativo do Passeio Carioca;
-- O sistema deve ser usado com segurança, garantindo confiabilidade para o usuário;
-- A base da página web do sistema deve ser o framework REACT;
+- O sistema deverá ser acessível a partir do aplicativo do Passeio Carioca;
+- O sistema deverá ser usado com segurança, garantindo confiabilidade para o usuário;
+- A base da página web do sistema deverá ser o framework REACT;
 
 
 ## Propósito do Sistema
