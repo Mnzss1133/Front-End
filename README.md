@@ -96,8 +96,8 @@ O feed vai conter imagens e a descrição delas, mapa que atribui aos imóveis a
 Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
 Tudo isso será interativo para o usuário.
 
-### Casos de Uso
-Atores Secundários(Ator de Suporte)-> Admin de suporte da empresa
+##  Casos de Uso
+Atores Secundários -> Admin de suporte da empresa
 
 
 
