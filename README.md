@@ -98,11 +98,11 @@ Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátu
 Tudo isso será interativo para o usuário.
 
 
-##Casos de Uso
+## Casos de Uso
 Atores: os clientes do aplicativo Passeio Carioca.
 Pre condicoes: Nenhuma.
 
-###Fluxo principal:
+### Fluxo principal:
 No sistema, o usuario podera:
 - Visualizar os posts mais recentes no topo do feed de publicacoes;
 - Realizar uma busca por uma publicacao de interesse;
