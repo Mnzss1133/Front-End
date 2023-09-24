@@ -97,6 +97,7 @@ Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátu
 Tudo isso será interativo para o usuário.
 
 ##  Casos de Uso
+Descrição:  O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
 Atores Secundários -> Admin de suporte da empresa
 
 
