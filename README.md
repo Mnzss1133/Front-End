@@ -30,7 +30,6 @@ Referência: Página no instagram -> @riocasaseprediosantigos
 Os membros da Equipiada farão o projeto, que será destinado para a empresa Passeio Carioca.
 #### (Quem -> Usuário) - Quem vai utilizar o projeto?
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
-#### (Quem -> Sistema) ???? botar alguma coisa
 
 ### When 
 #### (Quando -> Projeto) - Para quando é o projeto? -> data de entrega ou formato de atualizações do cliente ao projeto:
