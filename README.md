@@ -105,8 +105,10 @@ Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátu
 Tudo isso será interativo para o usuário.
 
 ## Casos de Uso
-Atores Principais: os clientes do aplicativo Passeio Carioca. 
-Atores Secundário: os admins ou suporte do sistema. 
+Atores Principais: os clientes do aplicativo Passeio Carioca.
+
+Atores Secundário: os admins ou suporte do sistema.
+
 Pré condições: Nenhuma.
 
 Fluxo principal:
@@ -117,4 +119,5 @@ Realizar uma busca por uma publicação de interesse;
 Curtir uma publicação;
 Comentar uma publicação;
 Favoritar uma publicação; 
+
 Pós-condições: Nenhuma.
