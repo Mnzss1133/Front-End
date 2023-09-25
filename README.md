@@ -100,12 +100,10 @@ Tudo isso será interativo para o usuário.
 
 ## Casos de Uso
 Atores: os clientes do aplicativo Passeio Carioca.
-Pre condicoes: Abrir o aplicativo/nenhuma
-Atores Principais: os clientes do aplicativo Passeio Carioca.
-Atores Secundário: os admins ou suporte do sistema.
+Pre condicoes: Abrir o aplicativo
 Fluxo principal -> No sistema, o usuario poderá:
 Visualizar os posts mais recentes no topo do feed de publicações; Realizar uma busca por uma publicação de interesse; Curtir uma publicação; Comentar uma publicação; Favoritar uma publicação;
 Pós-condições: Nenhuma.
 
 
-
+3 casos de uso: visualizar o feed, ver mais detalhes (saiba mais) e link externo
