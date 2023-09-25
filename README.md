@@ -116,6 +116,7 @@ O feed vai conter imagens e a descrição delas, mapa que atribui aos imóveis a
 Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
 Tudo isso será interativo para o usuário.
 
+
 ## Casos de Uso
 Atores Principais: os clientes do aplicativo Passeio Carioca.
 
@@ -133,6 +134,13 @@ Comentar uma publicação;
 Favoritar uma publicação; 
 
 Pós-condições: Nenhuma.
+
+##  Casos de Uso
+Descrição: O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
+
+Atores Secundários -> Admin de suporte da empresa
+
+
 
 ## Casos de Uso
 Atores: os clientes do aplicativo Passeio Carioca.
