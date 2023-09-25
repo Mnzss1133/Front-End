@@ -83,12 +83,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
   
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
-- O sistema operaa tanto para o IOS quanto para Android;
-- O sistema usa uma API do Google Maps;
-- Utilização de  geolocalização (permitir acesso à sua localização);
-- O sistema é acessível a partir do aplicativo do Passeio Carioca;
-- O sistema deve ser usado com segurança, garantindo confiabilidade para o usuário;
-- A base da página web do sistema deve ser o framework REACT;
+- O sistema usará o framework REACT;
 
 
 ## Propósito do Sistema
