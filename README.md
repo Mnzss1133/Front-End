@@ -71,9 +71,9 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 
 ## Casos de Uso
 ### Saiba mais
-Pré Condições: Ter entrado no feed de notícias
-Fluxo Principal: Clicar no botão de saiba mais e expandir o texto da descrição do edifício.
-Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
+- Pré Condições: Ter entrado no feed de notícias
+- Fluxo Principal: Clicar no botão de saiba mais e expandir o texto da descrição do edifício.
+- Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
 
 ## Resquisitos do sistema:
 
