@@ -23,7 +23,7 @@ O mapa aparece primeiro quando o usuário abre o app, com vários pontos de inte
 Referência: Página no instagram -> @riocasaseprediosantigos 
 
 ## Plano de Ação 5W2H
-## Projeto, Usuário e Sistema
+### Projeto, Usuário e Sistema
 
 ### Who
 #### (Quem -> Projeto/Sitema) - Quem vai fazer o projeto/sistema e para quem é o projeto?
@@ -32,8 +32,6 @@ Os membros da Equipiada farão o projeto, que será destinado para os clientes, 
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
 #### (Quem -> Sistema) - Quem é o sistema?
 O sistema é o feed de notícias que será aplicado no aplicativo do Passeio Carioca.
-
-
 
 ### When 
 #### (Quando -> Projeto) - Para quando é o projeto? -> data de entrega ou formato de atualizações do cliente ao projeto:
@@ -47,7 +45,6 @@ O sistema ficará pronto ate o final dessa disciplina de Projeto Front-End.
 #### (Quando -> Sitema) - Quando o sistema vai ficar pronto?
 O sistema ficará pronto ate o final dessa disciplina de Projeto Front-End.
 
-
 ### Where 
 #### (Onde -> Projeto) -  Aonde será feito o projeto? -> Qual plataforma ou destino que terá esse projeto?
 O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) que suporte a linguagem JavaScript, como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
@@ -56,7 +53,6 @@ Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com ace
 
 ### (Onde -> Sistema) - Onde será feito o sistema?
 O sistema será realizado em sala de aula e através de reuniões virtuais do grupo Equipiada.
-
 
 ### What 
 #### (O que -> Projeto/Sistema) - O que é o projeto? E o que é o sistema? 
@@ -75,9 +71,7 @@ Ele poderá entrar em contato para participar de algum evento dos imóveis, alé
 
 ### Why 
 #### (Por que -> Projeto) - Por que esse projeto é necessário? -> No que ele vai ajudar o cliente?
-
 #### (Por que -> Projeto/Sistema) - Porque esse projeto/sistema é necessário? -> No que ele vai ajudar o cliente?
-
 Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobre as novas descobertas que foram feitas, assim como as novas possíveis experiências que vem com esses edifícios.
 #### (Por que -> Usuário) - Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? 
 Para obter informações e curiosidades consultando as construções arquitetônicas no Rio de Janeiro. 
@@ -99,11 +93,11 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 ## Resquisitos do sistema:
 
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. O sistema faz e oferece ao cliente.)
--  O sistema exibira as postagens mais recentes no topo;
--  O sistema oferece uma interacao de curtir um post;
--  O sistema oferece uma interacao de comentar num post;
--  O sistema oferece uma interacao de favoritar um post;
--  O sistema oferece uma interacao de busca no feed;
+-  O sistema exibirá as postagens mais recentes no topo;
+-  O sistema oferece uma interação de curtir um post;
+-  O sistema oferece uma interação de comentar num post;
+-  O sistema oferece uma interação de favoritar um post;
+-  O sistema oferece uma interação de busca no feed;
   
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
@@ -116,38 +110,26 @@ O feed vai conter imagens e a descrição delas, mapa que atribui aos imóveis a
 Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
 Tudo isso será interativo para o usuário.
 
-
 ## Casos de Uso
-Atores Principais: os clientes do aplicativo Passeio Carioca.
-
-Atores Secundário: os admins ou suporte do sistema.
-
-Pré condições: Nenhuma.
-
-Fluxo principal:
-No sistema, o usuario poderá:
-
-Visualizar os posts mais recentes no topo do feed de publicações;
-Realizar uma busca por uma publicação de interesse;
-Curtir uma publicação;
-Comentar uma publicação;
-Favoritar uma publicação; 
-
-Pós-condições: Nenhuma.
+- Nome: Visualizar o feed
+- Atores Principais: os clientes do aplicativo Passeio Carioca.
+- Pré condições: Nenhuma.
+- Fluxo principal: No sistema, o usuario poderá: Visualizar os posts mais recentes no topo do feed de publicações; Realizar uma busca por uma publicação de interesse;
+- Pós-condições: Nenhuma.
 
 ##  Casos de Uso
-Descrição: O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
-
-Atores Secundários -> Admin de suporte da empresa
-
-
+- Nome: Exibir detalhes
+- Descrição: O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
+- Pré Condições: Ter entrado no feed de notícias
+- Fluxo Principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em alugma dos textos; expandir o texto da descrição do edifício.
+- Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
 
 ## Casos de Uso
-Atores: os clientes do aplicativo Passeio Carioca.
-Pre condicoes: Abrir o aplicativo
-Fluxo principal -> No sistema, o usuario poderá:
-Visualizar os posts mais recentes no topo do feed de publicações; Realizar uma busca por uma publicação de interesse; Curtir uma publicação; Comentar uma publicação; Favoritar uma publicação;
-Pós-condições: Nenhuma.
+- Nome: Acessar a experiência
+- Atores: os clientes do aplicativo Passeio Carioca.
+- Pre condicoes: Abrir o aplicativo
+- Fluxo principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em algum dos textos; caso exista, clicar no link que leve a uma experiência. 
+- Pós-condições: Ser redirecionado para o site referente a experiência.
 
 
 3 casos de uso: visualizar o feed, ver mais detalhes (saiba mais) e link externo
