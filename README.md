@@ -46,7 +46,7 @@ O sistema ficará pronto ate o final dessa disciplina de Projeto Front-End.
 O projeto será feito num Ambiente de Desenvolvimento Integrado (IDE) que suporte a linguagem JavaScript, como VSCode ou Node.js. O destino do projeto será o aplicativo da empresa.
 #### (Onde -> Usuário) - Onde será possível acessar o projeto? -> feed de notícias + aplicativo:
 Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com acesso a internet.
-### (Onde -> Sistema) - Onde será feito o sistema?
+#### (Onde -> Sistema) - Onde será feito o sistema?
 O sistema será realizado em sala de aula e através de reuniões virtuais do grupo Equipiada.
 
 ### What 
@@ -68,7 +68,7 @@ Para obter informações e curiosidades consultando as construções arquitetôn
 O projeto será feito a partir de reuniões da equipe durante e fora das aulas, documentando o que for necessário para realização do projeto e assim programando a partir do React utilizando a linguagem JavaScript.
 #### (Como -> Usuário) - Como o usuário terá acesso ao sistema?
 O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
-### (Como -> Sistema) - Como será o sistema?
+#### (Como -> Sistema) - Como será o sistema?
 O feed de notícias será um meio de consulta das novidades de imóveis na cidade do Rio de Janeiro.
 
 ### How much 
