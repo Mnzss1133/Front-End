@@ -104,9 +104,9 @@ Tudo isso será interativo para o usuário.
 - Pré condições: Ter entrado no feed de notícias.
 - Fluxo principal:
 
-  Visualizar os posts mais recentes no topo do feed de publicações.
+  - Visualizar os posts mais recentes no topo do feed de publicações.
 
-  Realizar uma busca por uma publicação de interesse.
+  - Realizar uma busca por uma publicação de interesse.
   
 - Pós-condições: As postagens irão subir ou descer de acordo com o uso do cliente.
 
@@ -135,12 +135,12 @@ Tudo isso será interativo para o usuário.
 - Pré-condicoes: Ter entrado no feed de notícias.
 - Fluxo principal:
   
-  Entrar no aplicativo.
+  - Entrar no aplicativo.
   
-  Rolar o feed.
+  - Rolar o feed.
 
-  Clicar no botão de saiba mais em algum dos textos caso exista.
+  - Clicar no botão de saiba mais em algum dos textos caso exista.
 
-  E assim clicar no link que leve a uma experiência.
+  - E assim clicar no link que leve a uma experiência.
   
 - Pós-condições: Ser redirecionado para o site referente a experiência.
