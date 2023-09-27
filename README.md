@@ -112,9 +112,12 @@ Tudo isso será interativo para o usuário.
 - Descrição: O usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda.
 - Pré-Condições: Ter entrado no feed de notícias.
 - Fluxo Principal:
-  Entrar no aplicativo; rolar o feed;
+  Entrar no aplicativo; rolar o feed.
+  
   Clicar no botão de saiba mais em alugma dos textos
+  
   Expandir o texto da descrição do edifício.
+  
 - Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
 
 ## Caso de Uso - Acessar a experiência
