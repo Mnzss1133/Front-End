@@ -119,8 +119,3 @@ Tudo isso será interativo para o usuário.
 - Pré-condicoes: Ter entrado no feed de notícias.
 - Fluxo principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em algum dos textos; caso exista, clicar no link que leve a uma experiência. 
 - Pós-condições: Ser redirecionado para o site referente a experiência.
-
-
-3 casos de uso: visualizar o feed, ver mais detalhes (saiba mais) e link externo
-
-
