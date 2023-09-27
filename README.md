@@ -102,7 +102,12 @@ Tudo isso será interativo para o usuário.
 - Atores: os clientes do aplicativo Passeio Carioca.
 - Descrição: O usuário ao entrar no aplicativo e entrar na página do feed irá usar o botão de rolagem (scroll) do mouse para visualizar o feed.
 - Pré condições: Ter entrado no feed de notícias.
-- Fluxo principal: No sistema, o usuario poderá: Visualizar os posts mais recentes no topo do feed de publicações; Realizar uma busca por uma publicação de interesse.
+- Fluxo principal:
+
+  Visualizar os posts mais recentes no topo do feed de publicações.
+
+  Realizar uma busca por uma publicação de interesse.
+  
 - Pós-condições: As postagens irão subir ou descer de acordo com o uso do cliente.
 
 
@@ -112,7 +117,10 @@ Tudo isso será interativo para o usuário.
 - Descrição: O usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda.
 - Pré-Condições: Ter entrado no feed de notícias.
 - Fluxo Principal:
-  Entrar no aplicativo; rolar o feed.
+  
+  Entrar no aplicativo.
+
+  Rolar o feed.
   
   Clicar no botão de saiba mais em alugma dos textos
   
@@ -125,5 +133,14 @@ Tudo isso será interativo para o usuário.
 - Atores: os clientes do aplicativo Passeio Carioca.
 - Descrição: O usuário ao clicar em um link será redirecionado para uma experiência.
 - Pré-condicoes: Ter entrado no feed de notícias.
-- Fluxo principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em algum dos textos; caso exista, clicar no link que leve a uma experiência.
+- Fluxo principal:
+  
+  Entrar no aplicativo.
+  
+  Rolar o feed.
+
+  Clicar no botão de saiba mais em algum dos textos caso exista.
+
+  E assim clicar no link que leve a uma experiência.
+  
 - Pós-condições: Ser redirecionado para o site referente a experiência.
