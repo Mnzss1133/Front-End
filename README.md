@@ -26,7 +26,11 @@ Referência: Página no instagram -> @riocasaseprediosantigos
 ### Projeto, Usuário e Sistema
 
 ### Who
+
 #### (Quem -> Projeto) - Quem vai fazer o projeto e para quem é o projeto?
+
+#### (Quem -> Projeto/Sitema) - Quem vai fazer o projeto/sistema e para quem é o projeto?
+
 Os membros da Equipiada farão o projeto, que será destinado para os clientes, ou seja, os usuarios do aplicativo Passeio Carioca.
 #### (Quem -> Usuário) - Quem vai utilizar o projeto?
 As pessoas que tiverem interesse e curiosidade em conhecer as obras arquitetônicas do Rio de Janeiro.
@@ -42,8 +46,14 @@ No momento em que o usuário tiver o interesse de consultar imóveis na cidade d
 ### (Quando -> Sistema) - Quando o sistema vai ficar pronto?
 O sistema ficará pronto ate o final dessa disciplina de Projeto Front-End.
 
+
 #### (Quando -> Sitema) - Quando o sistema vai ficar pronto?
 O sistema ficará pronto até o final dessa disciplina de Projeto Front-End.
+
+
+#### (Quando -> Sitema) - Quando o sistema vai ficar pronto?
+O sistema ficará pronto ate o final dessa disciplina de Projeto Front-End.
+
 
 ### Where 
 #### (Onde -> Projeto) -  Aonde será feito o projeto? -> Qual plataforma ou destino que terá esse projeto?
@@ -55,14 +65,22 @@ Na rua, em casa, em todos os lugares onde eles possuírem um dispositivo com ace
 O sistema será realizado em sala de aula e através de reuniões virtuais do grupo Equipiada.
 
 ### What 
+
 #### (O que -> Projeto) - O que é o projeto? E o que é o sistema? 
+
+#### (O que -> Projeto/Sistema) - O que é o projeto? E o que é o sistema? 
+
 O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis  que a empresa adicionou ao seu sistema. Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel. Assim como terá um espaco para curtir, favoritar e comentar uma publicação.
 
 #### (Onde -> Sistema) - Onde sera feito o sistema?
 O sistema sera realizado em sala de aula como tambem em reuniao virtuais do nosso grupo Equipiada.
 
 ### What 
+
 #### (O que -> Projeto) - O que é o projeto? O que precisa ser feito? -> Quais são os requisitos feitos pelo cliente?
+
+#### (O que -> Projeto/Sistema) - O que é o projeto?/sistema O que precisa ser feito? -> Quais são os requisitos feitos pelo cliente?
+
 O projeto se trata de criar uma pagina web com um feed de noticias para manter os clientes atualizados à respeito dos novos imóveis  que a empresa adicionou ao seu sistema. Esse feed tem que conter uma imagem do imóvel, uma descrição dos imóveis e uma parte para adicionar um link que possa levar a uma possível experiência no imóvel. Assim como tera um espaco para curtir, favoritar e comentar uma publicacao.
 
 #### (O que -> Usuário) - O que o usuário vai fazer no aplicativo?
@@ -71,13 +89,17 @@ Ele poderá entrar em contato para participar de algum evento dos imóveis, alé
 
 ### Why 
 #### (Por que -> Projeto) - Por que esse projeto é necessário? -> No que ele vai ajudar o cliente?
+
 #### (Por que -> Projeto) - Porque esse projeto é necessário? -> No que ele vai ajudar o cliente?
+
+#### (Por que -> Projeto/Sistema) - Porque esse projeto/sistema é necessário? -> No que ele vai ajudar o cliente?
+
 Esse projeto do Passeio Carioca vai ajudar o cliente a se manter atualizado sobre as novas descobertas que foram feitas, assim como as novas possíveis experiências que vem com esses edifícios.
 #### (Por que -> Usuário) - Por que o usuario vai usar o aplicativo? Por que que ele vai usar o feed? 
 Para obter informações e curiosidades consultando as construções arquitetônicas no Rio de Janeiro. 
 
 ### How 
-#### (Como -> Projeto) - Como será feito o projeto? -> metodologias, processos e linguagens:
+#### (Como -> Projeto/Sistema) - Como será feito o projeto/sistema? -> metodologias, processos e linguagens:
 O projeto será feito a partir de reuniões da equipe durante e fora das aulas, documentando o que for necessário para realização do projeto e assim programando a partir do React utilizando a linguagem JavaScript.
 #### (Como -> Usuário) - Como o usuário terá acesso ao sistema?
 O usuário poderá acessar o aplicativo e interagir no feed de notícias usando seu smartphone.
@@ -85,7 +107,11 @@ O usuário poderá acessar o aplicativo e interagir no feed de notícias usando 
 O feed de notícias será um meio de consulta das novidades de imóveis na cidade do Rio de Janeiro.
 
 ### How much 
+
 #### (Preço -> Projeto) - Quanto será gasto no projeto? -> o valor do projeto: 
+
+#### (Preço -> Projeto/Sistema) - Quanto será gasto no projeto/sistema? -> o valor do projeto: 
+
 O principal custos desse projeto nao e monetario, mas sim o tempo da equipe que faz o projeto/sistema.
 #### (Preço -> Usuário) - Quanto o usuário gastará usando o aplicativo?
 Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
@@ -110,13 +136,15 @@ O feed vai conter imagens e a descrição delas, mapa que atribui aos imóveis a
 Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
 Tudo isso será interativo para o usuário.
 
+
 ## Casos de Uso: Visualizar o feed
-- Atores Principais: os clientes do aplicativo Passeio Carioca.
+- Atores: os clientes do aplicativo Passeio Carioca.
 - Pré condições: Nenhuma.
 - Fluxo principal: No sistema, o usuario poderá: Visualizar os posts mais recentes no topo do feed de publicações; Realizar uma busca por uma publicação de interesse;
 - Pós-condições: Nenhuma.
 
-##  Casos de Uso: Exibir detalhes
+
+## Casos de Uso: Exibir detalhes
 - Descrição: O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
 - Pré Condições: Ter entrado no feed de notícias
 - Fluxo Principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em alugma dos textos; expandir o texto da descrição do edifício.
