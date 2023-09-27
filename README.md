@@ -5,7 +5,7 @@ O intuito desse projeto é criar um feed de notícias no estilo do instagram, mo
 Publicar anúncios, para caso o cliente queria participar de alguma experiência em relação aos imóveis.
 Vai existir uma parte em que o usuário comente sobre o imóvel. A mensagem vai pro administrador e se aprovar vai para o aplicativo (o foco é em avaliar a história e não o imóvel). Possui opção de favoritos e curtidas.
 
-Exemplo: Bar lagoa, exemplo de ponto de interesse e no final ira ter um cupom de desconto (viva a experiência).
+Exemplo: Bar lagoa, exemplo de ponto de interesse e no final irá ter um cupom de desconto (viva a experiência).
 
 ## Anotações
 
@@ -39,7 +39,7 @@ As datas de atualização serão semanais, e terão apresentações maiores nos 
 #### (Quando -> Usuário) - Quando o usuário vai utilizar?
 No momento em que o usuário tiver o interesse de consultar imóveis na cidade do Rio de Janeiro.
 #### (Quando -> Sistema) - Quando o sistema vai ficar pronto?
-O sistema ficará pronto ate o final dessa disciplina de Projeto Front-End.
+O sistema ficará pronto até o final dessa disciplina de Projeto Front-End.
 
 ### Where 
 #### (Onde -> Projeto) -  Aonde será feito o projeto? -> Qual plataforma ou destino que terá esse projeto?
@@ -73,7 +73,7 @@ O feed de notícias será um meio de consulta das novidades de imóveis na cidad
 
 ### How much 
 #### (Preço -> Projeto/Sistema) - Quanto será gasto no projeto/sistema? -> o valor do projeto: 
-O principal custos desse projeto nao e monetario, mas sim o tempo da equipe que faz o projeto/sistema.
+Os principais custos desse projeto não são monetários, mas sim o tempo da equipe que faz o projeto/sistema.
 #### (Preço -> Usuário) - Quanto o usuário gastará usando o aplicativo?
 Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação com o aplicativo.
 
@@ -94,7 +94,7 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 ## Propósito do Sistema
 Construir uma página web, na qual irá possuir um feed. Será construída para mobile apenas. 
 O feed vai conter imagens e a descrição delas, mapa que atribui aos imóveis alguns pontos e haverá utilização de geolocalização.
-Outra funcionalidade é um sistema de audio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
+Outra funcionalidade é um sistema de áudio, que vai reproduzir a voz da estátua feita através de inteligência artificial.
 Tudo isso será interativo para o usuário.
 
 
