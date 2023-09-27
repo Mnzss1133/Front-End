@@ -27,7 +27,7 @@ Referência: Página no instagram -> @riocasaseprediosantigos
 
 ### Who
 
-#### (Quem -> Projeto) - Quem vai fazer o projeto e para quem é o projeto?
+
 
 #### (Quem -> Projeto/Sitema) - Quem vai fazer o projeto/sistema e para quem é o projeto?
 
