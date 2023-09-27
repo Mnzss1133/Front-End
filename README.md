@@ -118,13 +118,13 @@ Tudo isso será interativo para o usuário.
 - Pré-Condições: Ter entrado no feed de notícias.
 - Fluxo Principal:
   
-  Entrar no aplicativo.
+  - Entrar no aplicativo.
 
-  Rolar o feed.
+  - Rolar o feed.
   
-  Clicar no botão de saiba mais em alugma dos textos
+  - Clicar no botão de saiba mais em alugma dos textos
   
-  Expandir o texto da descrição do edifício.
+  - Expandir o texto da descrição do edifício.
   
 - Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
 
