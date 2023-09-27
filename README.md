@@ -87,6 +87,8 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 
 #### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
 - O sistema usará o framework REACT;
+- O sistema será prototipado no Figma;
+- O sistema terá a documentação hospedada no Github;
 
 
 ## Propósito do Sistema
