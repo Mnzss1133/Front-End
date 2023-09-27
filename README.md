@@ -100,23 +100,23 @@ Tudo isso será interativo para o usuário.
 
 ## Caso de Uso - Visualizar o feed
 - Atores: os clientes do aplicativo Passeio Carioca.
-- Descrição: O Usuário ao entrar no aplicativo, irá usar a rolagem para visualizar o feed.
-- Pré condições: Nenhuma.
+- Descrição: O Usuário ao entrar no aplicativo e entrar na página do feed irá usar o botão de rolagem (scroll) do mouse para visualizar o feed.
+- Pré condições: Ter entrado no feed de notícias.
 - Fluxo principal: No sistema, o usuario poderá: Visualizar os posts mais recentes no topo do feed de publicações; Realizar uma busca por uma publicação de interesse;
-- Pós-condições: Nenhuma.
+- Pós-condições: As postagens irão subir ou descer de acordo com o uso do cliente
 
 
 ## Caso de Uso - Exibir detalhes
 
 - Atores: os clientes do aplicativo Passeio Carioca.
 - Descrição: O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
-- Pré Condições: Ter entrado no feed de notícias
+- Pré Condições: Ter entrado no feed de notícias.
 - Fluxo Principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em alugma dos textos; expandir o texto da descrição do edifício.
 - Pós Condições: Ao clicar em um botão de saiba mais localizado abaixo de uma notícia, expandir o texto de descrição da notícia.
 
 ## Caso de Uso - Acessar a experiência
 - Atores: os clientes do aplicativo Passeio Carioca.
-- Pre condicoes: Abrir o aplicativo
+- Pre condicoes: Ter entrado no feed de notícias.
 - Fluxo principal: Entrar no aplicativo; rolar o feed; clicar no botão de saiba mais em algum dos textos; caso exista, clicar no link que leve a uma experiência. 
 - Pós-condições: Ser redirecionado para o site referente a experiência.
 
