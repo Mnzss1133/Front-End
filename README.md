@@ -106,6 +106,7 @@ Tudo isso será interativo para o usuário.
 
 
 ## Caso de Uso - Exibir detalhes
+
  -Atores: os clientes do aplicativo Passeio Carioca.
 - Descrição: O Usuário ao clicar no botão de saiba mais, faz com que a descrição do imóvel expanda .
 - Pré Condições: Ter entrado no feed de notícias
