@@ -1,4 +1,5 @@
 # Front-End: Projeto Passeio Carioca
+## Link para o respositório do código: https://github.com/Enzoperroni/n2-tarde
 ## Nosso entendimento do projeto: 
 
 O intuito desse projeto é criar um feed de notícias no estilo do instagram, mostrando a atualização dos imóveis, fazendo com que o turista saiba das últimas atualizações realizadas pela empresa Passeio Carioca.
