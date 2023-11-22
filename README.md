@@ -83,12 +83,12 @@ Será medido, apenas, o tempo de acesso gasto pelo usuário na sua interação c
 #### Funcionais(os requisitos funcionais são todos os problemas e necessidades que devem ser atendidos e resolvidos pelo software por meio de funções ou serviços. O sistema faz e oferece ao cliente.)
 - O sistema exibirá as postagens mais recentes no topo;
 - O sistema oferecerá opção de exibir detalhes, expando o corpo do texto;
-- O sistema, se existir, terá links que redirecionam o usuário para uma experiência;
+- O sistema, se existir, terá links que redirecionam o usuário para uma experiência;\
+- O sistema deverá ser funcional em sistemas mobile;
   
 
-#### Não Funcionais(Os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
+#### Não Funcionais(os requisitos não funcionais são todos aqueles relacionados à forma como o software tornará realidade que está sendo planejado. Não é uma funcionalidade atribuída ao cliente.)
 - O sistema usará o framework REACT;
-- O sistema será prototipado no Figma;
 - O sistema terá a documentação hospedada no Github;
 
 
